@@ -6,10 +6,10 @@ http://91.207.88.34:8000/play/a03e/index.m3u8
 http://151.236.74.7/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+https://151.236.74.7/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Информационные" ,Россия 24 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+https://151.236.74.7/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 ,Россия 24 International
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 
